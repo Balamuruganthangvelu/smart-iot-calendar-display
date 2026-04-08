@@ -8,7 +8,8 @@ const char* ssid = "YOUR_WIFI";
 const char* password = "YOUR_PASSWORD";
 
 // Google Calendar API URL
-String url = "https://www.googleapis.com/calendar/v3/calendars/YOUR_CALENDAR_ID/events?key=YOUR_API_KEY";
+String url = "https://www.googleapis.com/calendar/v3/calendars/blacksmile3333@gmail.com/events?key=AIzaSyAe1OAB2yLK-MC-gQSA-LqJSfWjt5caHGs";
+
 
 // LCD setup
 LiquidCrystal_I2C lcd(0x27, 16, 2);
